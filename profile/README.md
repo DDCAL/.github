@@ -1,6 +1,6 @@
-## The (Digital) Design, Colour and Accessibility Lab
+## The Digital Design, Colour and Accessibility Lab
 
-🙋‍♀️ Hi! We're the (Digital) Design, Colour and Accessibility Lab at the University of Guelph's School of Computer Science!
+🙋‍♀️ Hi! We're the Digital Design, Colour and Accessibility Lab at the University of Guelph's School of Computer Science!
 
 <!--
 
